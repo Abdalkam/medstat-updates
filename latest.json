@@ -1,0 +1,11 @@
+{
+  "version": "1.0.49",
+  "notes": "Latest version with improvements",
+  "pub_date": "2025-01-20T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeWpnODlnYkNVNlYwZGZ5YjNmNFNkcG1LMEd4azRqR2pHZTQ5NkpFNzIza3BJQ0JkYVN6ZTdZVHBjMExWVDYxK3psbjhsNnJEZ2RRSGtDenNXVmFZb1FkV3V0REcxQXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDAzODgyCWZpbGU6bWVkc3RhdF8xLjAuNDlfeDY0LXNldHVwLmV4ZQp2dHUza3RhMDRqMmtLN3RHaUFBVldQTElXY050M20xSWdHcVQ2MVN4bGVIZ3pFZGlmenNsUVFtNDd1VjJBc012d3B2K0ovVTRjNS94M0xZWlBFVTVEUT09Cg==",
+      "url": "https://github.com/Abdalkam/medstat-updates/releases/download/v1.0.49/medstat_1.0.49_x64-setup.exe"
+    }
+  }
+}
