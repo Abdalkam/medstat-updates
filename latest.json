@@ -1,11 +1,11 @@
 {
-  "version": "1.0.50",
-  "notes": "Latest version with improvements",
+  "version": "1.0.51",
+  "notes": "Login screen color update",
   "pub_date": "2025-01-20T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeWpnODlnYkNVNmRlRlJuZTV6UDNYc0U3SXI5Qkx1YXJ4Y1lSSE1STXBvY1llck1PUURVWm9LMEs4b0IrcDJyVW05bDBCR1ZPS0JoeHZOQzV3OUQxUFdZclRSa3hBU0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDA3NDMwCWZpbGU6bWVkc3RhdF8xLjAuNTBfeDY0LXNldHVwLmV4ZQpRb2xvL240K0ZkVjZNQmdYN3lsNTdFWVZteFl1c1M2eDdiYzUxWkhGb0lRTU5OK0pRdGxLdUZISDZmOHhjTVpSQVorek9BQ2lLWmluZFRVQ3gyS0pCUT09Cg==",
-      "url": "https://github.com/Abdalkam/medstat-updates/releases/download/v1.0.50/medstat_1.0.50_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK0RZZ1VtNE00TnkyYzRqK0hCbEhhVGI0VkxHVXJ3dVJ4YlYwcWxBY29SQWgzcHVxbDdSRU5NN01od0NXK25yZTk3THZhcHZnMmJobzREVG5lcnY0emthWWJ2SC9pNXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDY4ODU4CWZpbGU6bWVkc3RhdF8xLjAuNTFfeDY0LXNldHVwLmV4ZQpUT3pLR205OXVpTUgxb1NtVkRNcFFFZnRMT3RGamt6Zkp4TVI5NUJOd0o3M0J4TU15Y1RNOXRLZ0M5SVVrMFlmOUQ4VVNiakxNNHlGbDJVUUQ4UG1EZz09Cg==",
+      "url": "https://github.com/Abdalkam/medstat-updates/releases/download/v1.0.51/medstat_1.0.51_x64-setup.exe"
     }
   }
 }
