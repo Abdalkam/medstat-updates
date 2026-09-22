@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK0RZZ1VtNE00TjBEcUJISXBVWXJYQWtObUpSOEllYkVRNVNRdnYrV0VFNENaWXk2L1cwc1o3VHc3MzFDM290ZGdsdmoyUGNXNDdHOWhvdW54WDE2UkJxZnViY0ZTcFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTA2NDAyCWZpbGU6bWVkc3RhdF8xLjAuNjFfeDY0LXNldHVwLmV4ZQpPNTl0N3loMzRqOUc3SGpXbk8xV3Q5UUpTeE5TUmxKa3VsKzJFdFBIZkREa1BJR2tKV2o1dVhreWx5ZzFucDhxLzV4YnE5eCtDTDA2SGU1bEJZK1ZEQT09Cg==",
-                                             "url":  "https://github.com/Abdalkam/medstat-updates/releases/download/v1.0.61/medstat_1.0.61_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK0RZZ1VtNE00TjhXZ2xzM3BCWlV3ZWxzRkUxL2Vrd1BSVDJxRXVUYjMvQmoxYWFNNFhONU54NkY0bmtrOU9HTEFHYUZmc2ZMWlZkN2tpUWFlUy9nM01va1gvemRLS2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTA3MjU4CWZpbGU6bWVkc3RhdF8xLjAuNjJfeDY0LXNldHVwLmV4ZQozTG1ud3llSk5NM2R0UW0rZXNLUWp6MW9kbDAyWjd3YlRDYmdTYnNPWG9NOFlTSm1KWFBDZkM0STB5S2tuVEI2ekdFVGg0eUJvMlJQcm1vUW1IMmdEZz09Cg==",
+                                             "url":  "https://github.com/Abdalkam/medstat-updates/releases/download/v1.0.62/medstat_1.0.62_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-09-22T22:46:55Z",
-    "version":  "1.0.61",
-    "notes":  "Version 1.0.61"
+    "pub_date":  "2026-09-22T23:01:11Z",
+    "version":  "1.0.62",
+    "notes":  "Version 1.0.62"
 }
