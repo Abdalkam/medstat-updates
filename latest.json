@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.114",
-    "notes":  "SmartPages release v1.0.114",
-    "pub_date":  "2026-09-28T22:51:02Z",
+    "version":  "1.0.115",
+    "notes":  "SmartPages release v1.0.115",
+    "pub_date":  "2026-09-28T23:16:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3h6a0k4ZUpuUi9QUUZXNnkwSzN0RHpHL0dlM2tPOFFnTTBzdUkwZ1U1b2ZRc0lWSC92cWF0NkdsWFg1UlM0dmJuVkVRMFk0SVFzOEVuVUxXdmI4NDIyOHNyUkhvdndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjM1ODUyCWZpbGU6U21hcnRQYWdlc18xLjAuMTE0X3g2NC1zZXR1cC5leGUKUUFGQlNwcTIxUWNIRUozN0tscGVpTHMvWXptWjhVY0o0VVJHbytWQk9oVkVteGdZeGVwb0tiT1lYT29KcUxxa2w2RTQ5OHIyS0ZmbS9Pd1VpSi9FQmc9PQo=",
-                                             "url":  "https://github.com/Abdalkam/medstat/releases/download/v1.0.114/SmartPages_1.0.114_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3h6a0k4ZUpuUnhuYUdCQldrRzlsTVY1QTV1WlFnRjlZdTI1WnBoQmJlTW9yOFdJZkNZcDhqeWxIUDJlREhJNXBzdXR5TWplWUZuMGxDbGJPMjVVY3JnbFpESkZiRWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjM3NDA0CWZpbGU6U21hcnRQYWdlc18xLjAuMTE1X3g2NC1zZXR1cC5leGUKdWh6ZmhGVXlnMHgzcng2ZCtiM3BUbjhxNWFlemd0NDNXVFZDdmVqbGxIR2RlNUdPWldudmIrSm9ocG5YLzFCMURXL3BMMndYT21EVDNmbWhOWlBpQ2c9PQo=",
+                                             "url":  "https://github.com/Abdalkam/medstat/releases/download/v1.0.115/SmartPages_1.0.115_x64-setup.exe"
                                          }
                   }
 }
